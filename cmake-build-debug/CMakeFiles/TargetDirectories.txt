@@ -1,0 +1,3 @@
+C:/Users/Kryzsytof/CLionProjects/Hello/cmake-build-debug/CMakeFiles/Hello.dir
+C:/Users/Kryzsytof/CLionProjects/Hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kryzsytof/CLionProjects/Hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
